@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="trackGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22c55e" />
+      <stop offset="100%" stop-color="#15803d" />
+    </linearGradient>
+    
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde047" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="200" height="200" rx="40" fill="#111827" />
+  
+  <path d="M -20 140 Q 100 220 220 100" fill="none" stroke="url(#trackGrad)" stroke-width="16" stroke-linecap="round"/>
+  <path d="M -20 170 Q 100 250 220 130" fill="none" stroke="url(#trackGrad)" stroke-width="8" stroke-linecap="round" opacity="0.5"/>
+  
+  <path d="M 65 60 C 65 130, 135 130, 135 60" fill="none" stroke="url(#goldGrad)" stroke-width="20" stroke-linecap="round"/>
+  
+  <circle cx="75" cy="85" r="3.5" fill="#111827"/>
+  <circle cx="125" cy="85" r="3.5" fill="#111827"/>
+  <circle cx="87" cy="105" r="3.5" fill="#111827"/>
+  <circle cx="113" cy="105" r="3.5" fill="#111827"/>
+  
+  <g fill="#fde047">
+    <polygon points="100,25 103,32 110,32 104,37 106,44 100,40 94,44 96,37 90,32 97,32" />
+    <polygon points="65,35 67,40 72,40 68,43 69,48 65,45 61,48 62,43 58,40 63,40" />
+    <polygon points="135,35 137,40 142,40 138,43 139,48 135,45 131,48 132,43 128,40 133,40" />
+  </g>
+</svg>

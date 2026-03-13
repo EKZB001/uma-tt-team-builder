@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "1262130",
+    "name": "Special Week (Special Dreamer)",
+    "image": "https://img.game8.co/4215100/ccdae6e32950d689004ae06d0d12b7fb.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "A",
+      "late": "A",
+      "end": "C"
+    }
+  },
+  {
+    "id": "1262131",
+    "name": "Silence Suzuka (Innocent Silence)",
+    "image": "https://img.game8.co/4215102/de7844318b232ff98575cd731da5da5b.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "D",
+      "mile": "A",
+      "medium": "A",
+      "long": "E",
+      "front": "A",
+      "pace": "C",
+      "late": "E",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262132",
+    "name": "Tokai Teio (Peak Joy)",
+    "image": "https://img.game8.co/4215117/a32a700acf40156c4a14e5628d4528c2.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "E",
+      "medium": "A",
+      "long": "B",
+      "front": "D",
+      "pace": "A",
+      "late": "C",
+      "end": "E"
+    }
+  },
+  {
+    "id": "1262133",
+    "name": "Maruzensky (Formula R)",
+    "image": "https://img.game8.co/4215129/d710f507283c55a35b5a5ca256380ef3.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "D",
+      "sprint": "B",
+      "mile": "A",
+      "medium": "B",
+      "long": "C",
+      "front": "A",
+      "pace": "E",
+      "late": "G",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262134",
+    "name": "Oguri Cap (Starlight Beat)",
+    "image": "https://img.game8.co/4215120/b88f532cf2ad5d92e2cba38d4e3e1967.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "B",
+      "sprint": "E",
+      "mile": "A",
+      "medium": "A",
+      "long": "B",
+      "front": "F",
+      "pace": "A",
+      "late": "A",
+      "end": "D"
+    }
+  },
+  {
+    "id": "1262135",
+    "name": "Taiki Shuttle (Wild Frontier)",
+    "image": "https://img.game8.co/4215092/2c86727fc3e27a1455f765b1be6aaf9b.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "B",
+      "sprint": "A",
+      "mile": "A",
+      "medium": "E",
+      "long": "G",
+      "front": "C",
+      "pace": "A",
+      "late": "E",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262136",
+    "name": "Mejiro McQueen (Frontline Elegance)",
+    "image": "https://img.game8.co/4215096/d1b0fba85e39f8388349b0d7eb51e94e.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "E",
+      "sprint": "G",
+      "mile": "F",
+      "medium": "A",
+      "long": "A",
+      "front": "B",
+      "pace": "A",
+      "late": "D",
+      "end": "F"
+    }
+  },
+  {
+    "id": "1262137",
+    "name": "T.M. Opera O (O Sole Suo!)",
+    "image": "https://img.game8.co/4215118/01614857f603e325d89d2672ff7be956.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "E",
+      "sprint": "G",
+      "mile": "E",
+      "medium": "A",
+      "long": "A",
+      "front": "C",
+      "pace": "A",
+      "late": "A",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262138",
+    "name": "Symboli Rudolf (Emperor's Path)",
+    "image": "https://img.game8.co/4215094/cfe21be4d0eaa0f7fd7bfca081137cf6.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "E",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "B",
+      "pace": "A",
+      "late": "A",
+      "end": "C"
+    }
+  },
+  {
+    "id": "1262139",
+    "name": "Rice Shower (Rosy Dreams)",
+    "image": "https://img.game8.co/4215101/df3fdc1f11bff2145a1e0580f00d6233.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "E",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "B",
+      "pace": "A",
+      "late": "C",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262140",
+    "name": "Mihono Bourbon (MB-19890425)",
+    "image": "https://img.game8.co/4215103/c8daf8408a496ca99f2f409141480ee3.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "C",
+      "mile": "B",
+      "medium": "A",
+      "long": "B",
+      "front": "A",
+      "pace": "E",
+      "late": "G",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262141",
+    "name": "Gold Ship (Red Strife)",
+    "image": "https://img.game8.co/4215126/f865ae8805e1a047c197b41dcf629128.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "B",
+      "late": "B",
+      "end": "A"
+    }
+  },
+  {
+    "id": "1262142",
+    "name": "Vodka (Wild Top Gear)",
+    "image": "https://img.game8.co/4215123/8c3ddeb9090b518a35fd5265ce3b0e1f.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "A",
+      "medium": "A",
+      "long": "F",
+      "front": "C",
+      "pace": "B",
+      "late": "A",
+      "end": "F"
+    }
+  },
+  {
+    "id": "1262143",
+    "name": "Daiwa Scarlet (Peak Blue)",
+    "image": "https://img.game8.co/4215127/849b6a25d5a9115a17ba0dd9484d4632.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "A",
+      "medium": "A",
+      "long": "B",
+      "front": "A",
+      "pace": "A",
+      "late": "E",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262144",
+    "name": "Grass Wonder (Stone-Piercing Blue)",
+    "image": "https://img.game8.co/4215106/abb5535583d439297e38fd88351acb0f.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "A",
+      "medium": "B",
+      "long": "A",
+      "front": "F",
+      "pace": "A",
+      "late": "A",
+      "end": "F"
+    }
+  },
+  {
+    "id": "1262145",
+    "name": "El Condor Pasa (El Numero 1)",
+    "image": "https://img.game8.co/4215091/71f519fcd85bcc88940cb05a06aa5fad.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "B",
+      "sprint": "F",
+      "mile": "A",
+      "medium": "A",
+      "long": "B",
+      "front": "E",
+      "pace": "A",
+      "late": "A",
+      "end": "C"
+    }
+  },
+  {
+    "id": "1262146",
+    "name": "Air Groove (Empress Road)",
+    "image": "https://img.game8.co/4215095/7ae933e5523e8b0be50e79481aa74d64.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "C",
+      "mile": "B",
+      "medium": "A",
+      "long": "E",
+      "front": "D",
+      "pace": "A",
+      "late": "A",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262147",
+    "name": "Mayano Top Gun (Scramble Zone)",
+    "image": "https://img.game8.co/4215107/10b354aa6881ac931850fdfdd65e4bfa.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "E",
+      "sprint": "D",
+      "mile": "D",
+      "medium": "A",
+      "long": "A",
+      "front": "A",
+      "pace": "A",
+      "late": "B",
+      "end": "B"
+    }
+  },
+  {
+    "id": "1262148",
+    "name": "Super Creek (Murmuring Stream)",
+    "image": "https://img.game8.co/4215105/0fef6616422e8cafe011db3f4297d458.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "G",
+      "medium": "A",
+      "long": "A",
+      "front": "D",
+      "pace": "A",
+      "late": "B",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262149",
+    "name": "Mejiro Ryan (Down the Line)",
+    "image": "https://img.game8.co/4215093/cf29dcafa459fe6526ae63511010b6c6.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "E",
+      "mile": "C",
+      "medium": "A",
+      "long": "B",
+      "front": "F",
+      "pace": "A",
+      "late": "A",
+      "end": "F"
+    }
+  },
+  {
+    "id": "1262150",
+    "name": "Agnes Tachyon (Tach-nology)",
+    "image": "https://img.game8.co/4215119/866e3174290a1db9f1b5e9b0707022fd.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "D",
+      "medium": "A",
+      "long": "B",
+      "front": "E",
+      "pace": "A",
+      "late": "B",
+      "end": "F"
+    }
+  },
+  {
+    "id": "1262151",
+    "name": "Winning Ticket (Get to Winning!)",
+    "image": "https://img.game8.co/4215097/f315789918074a13bde91667b52ef450.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "F",
+      "medium": "A",
+      "long": "B",
+      "front": "G",
+      "pace": "B",
+      "late": "A",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262152",
+    "name": "Sakura Bakushin O (Blossom in Learning)",
+    "image": "https://img.game8.co/4215124/b43daef3029d668d934a74fc6dedc106.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "A",
+      "mile": "B",
+      "medium": "G",
+      "long": "G",
+      "front": "A",
+      "pace": "A",
+      "late": "F",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262153",
+    "name": "Haru Urara (Bestest Prize)",
+    "image": "https://img.game8.co/4215125/8a0d5987ff05baa4e52b7b75dd8db0ac.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "G",
+      "dirt": "A",
+      "sprint": "A",
+      "mile": "B",
+      "medium": "G",
+      "long": "G",
+      "front": "G",
+      "pace": "G",
+      "late": "A",
+      "end": "B"
+    }
+  },
+  {
+    "id": "1262154",
+    "name": "Matikane Fukukitaru (Rising Fortune)",
+    "image": "https://img.game8.co/4215098/fd1cc3813dbc2b350ca86dda01754f61.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "F",
+      "sprint": "F",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "B",
+      "late": "A",
+      "end": "F"
+    }
+  },
+  {
+    "id": "1262155",
+    "name": "Nice Nature (Poinsettia Ribbon)",
+    "image": "https://img.game8.co/4215099/f427b728c8fff6a14b9db7b1c88edab0.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "F",
+      "pace": "B",
+      "late": "A",
+      "end": "D"
+    }
+  },
+  {
+    "id": "1262156",
+    "name": "King Halo (King of Emeralds)",
+    "image": "https://img.game8.co/4215104/6c6a894d4249705341fc8e8f3729c2c1.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "A",
+      "mile": "B",
+      "medium": "B",
+      "long": "C",
+      "front": "G",
+      "pace": "B",
+      "late": "A",
+      "end": "D"
+    }
+  },
+  {
+    "id": "1262315",
+    "name": "Biwa Hayahide (pf. Winning Equation...)",
+    "image": "https://img.game8.co/4215620/d57362dcb3e68fba4902f89e08f59ad5.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "F",
+      "sprint": "F",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "E",
+      "pace": "A",
+      "late": "B",
+      "end": "E"
+    }
+  },
+  {
+    "id": "1262316",
+    "name": "Mejiro McQueen (End of the Skies)",
+    "image": "https://img.game8.co/4218714/60a1167b86af10045042a3bb142c22df.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "E",
+      "sprint": "G",
+      "mile": "F",
+      "medium": "A",
+      "long": "A",
+      "front": "B",
+      "pace": "A",
+      "late": "D",
+      "end": "F"
+    }
+  },
+  {
+    "id": "1262317",
+    "name": "Tokai Teio (Beyond the Horizon)",
+    "image": "https://img.game8.co/4218713/54e61e6ffef143af6ee086fb5773fbaf.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "E",
+      "medium": "A",
+      "long": "B",
+      "front": "D",
+      "pace": "A",
+      "late": "C",
+      "end": "E"
+    }
+  },
+  {
+    "id": "1262318",
+    "name": "Curren Chan (Fille Éclair)",
+    "image": "https://img.game8.co/4246626/af30ce09d65c0e609c8dc4355f5d323d.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "F",
+      "sprint": "A",
+      "mile": "D",
+      "medium": "G",
+      "long": "G",
+      "front": "B",
+      "pace": "A",
+      "late": "E",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262319",
+    "name": "Narita Taishin (Nevertheless)",
+    "image": "https://img.game8.co/4215638/c9a9a3352015b98b96bcf5adc58a3c71.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "D",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "F",
+      "late": "B",
+      "end": "A"
+    }
+  },
+  {
+    "id": "1262320",
+    "name": "Smart Falcon (LOVE☆4EVER)",
+    "image": "https://img.game8.co/4215631/337c5bf43c5719926207ba459d43bec9.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "E",
+      "dirt": "A",
+      "sprint": "B",
+      "mile": "A",
+      "medium": "A",
+      "long": "E",
+      "front": "A",
+      "pace": "D",
+      "late": "G",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262321",
+    "name": "Narita Brian (Maverick)",
+    "image": "https://img.game8.co/4237874/b48663f39c85e997a057e14ccc6fd9ea.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "B",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "A",
+      "late": "A",
+      "end": "D"
+    }
+  },
+  {
+    "id": "1262322",
+    "name": "Mayano Top Gun (Sunlight Bouquet)",
+    "image": "https://img.game8.co/4238069/bbdc765c2d8a16c29c109e79e8a4d11b.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "E",
+      "sprint": "D",
+      "mile": "D",
+      "medium": "A",
+      "long": "A",
+      "front": "A",
+      "pace": "A",
+      "late": "B",
+      "end": "B"
+    }
+  },
+  {
+    "id": "1262323",
+    "name": "Air Groove (Quercus Civilis)",
+    "image": "https://img.game8.co/4238068/3120a85fb8c9bc3ca8abaaf5d2523a78.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "C",
+      "mile": "B",
+      "medium": "A",
+      "long": "E",
+      "front": "D",
+      "pace": "A",
+      "late": "A",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262324",
+    "name": "Seiun Sky (Reeling in the Big One)",
+    "image": "https://img.game8.co/4215637/0186eb67d34e69743cb30de78de05eff.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "A",
+      "pace": "B",
+      "late": "D",
+      "end": "E"
+    }
+  },
+  {
+    "id": "1262325",
+    "name": "Hishi Amazon (Azure Amazon)",
+    "image": "https://img.game8.co/4215630/680022e0ffec85a5fa151ca1120ea64e.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "E",
+      "sprint": "D",
+      "mile": "A",
+      "medium": "A",
+      "long": "B",
+      "front": "G",
+      "pace": "B",
+      "late": "C",
+      "end": "A"
+    }
+  },
+  {
+    "id": "1262326",
+    "name": "El Condor Pasa (Kukulkan Warrior)",
+    "image": "https://img.game8.co/4265082/6b379764f113de4136df307ecd70de13.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "B",
+      "sprint": "F",
+      "mile": "A",
+      "medium": "A",
+      "long": "B",
+      "front": "E",
+      "pace": "A",
+      "late": "A",
+      "end": "C"
+    }
+  },
+  {
+    "id": "1262327",
+    "name": "Grass Wonder (Saintly Jade Cleric)",
+    "image": "https://img.game8.co/4348863/08446c53a9419da523b6a9929482942b.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "A",
+      "medium": "B",
+      "long": "A",
+      "front": "F",
+      "pace": "A",
+      "late": "A",
+      "end": "F"
+    }
+  },
+  {
+    "id": "1262328",
+    "name": "Fuji Kiseki (Shooting Star Revue)",
+    "image": "https://img.game8.co/4215639/8a19fa7cf442bea3d45a84273946c8f7.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "F",
+      "sprint": "B",
+      "mile": "A",
+      "medium": "B",
+      "long": "E",
+      "front": "C",
+      "pace": "A",
+      "late": "C",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262329",
+    "name": "Gold City (Authentic / 1928)",
+    "image": "https://img.game8.co/4215622/13a954122fa56c982abf91a2f3c655d7.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "D",
+      "sprint": "F",
+      "mile": "A",
+      "medium": "B",
+      "long": "B",
+      "front": "F",
+      "pace": "A",
+      "late": "A",
+      "end": "F"
+    }
+  },
+  {
+    "id": "1262330",
+    "name": "Special Week (Hopp'n♪Happy Heart)",
+    "image": "https://img.game8.co/4292908/648e53b547019ed8388f7dc88720bb74.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "A",
+      "late": "A",
+      "end": "C"
+    }
+  },
+  {
+    "id": "1262331",
+    "name": "Maruzensky (Hot☆Summer Night)",
+    "image": "https://img.game8.co/4292909/dfa724321de6577126deae310ef24d04.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "D",
+      "sprint": "B",
+      "mile": "A",
+      "medium": "B",
+      "long": "C",
+      "front": "A",
+      "pace": "E",
+      "late": "G",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1262332",
+    "name": "Meisho Doto (Turbulent Blue)",
+    "image": "https://img.game8.co/4215619/df6d6e2bad11c267eabab8effa9a56dd.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "E",
+      "sprint": "G",
+      "mile": "F",
+      "medium": "A",
+      "long": "A",
+      "front": "F",
+      "pace": "A",
+      "late": "B",
+      "end": "E"
+    }
+  },
+  {
+    "id": "1262333",
+    "name": "Eishin Flash (Meisterschaft)",
+    "image": "https://img.game8.co/4215629/9f8605d49f3289e1b48dd470a8a44872.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "F",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "B",
+      "late": "A",
+      "end": "C"
+    }
+  },
+  {
+    "id": "1262334",
+    "name": "Matikane Fukukitaru (Lucky Tidings)",
+    "image": "https://img.game8.co/4323111/9e613651b17dcac72a65aa3c3693c2f7.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "F",
+      "sprint": "F",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "B",
+      "late": "A",
+      "end": "F"
+    }
+  },
+  {
+    "id": "1262335",
+    "name": "Hishi Akebono (Buono☆Alla Moda)",
+    "image": "https://img.game8.co/4329654/b6475f4b211412eb6683c0e1014794ed.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "F",
+      "sprint": "A",
+      "mile": "B",
+      "medium": "F",
+      "long": "G",
+      "front": "B",
+      "pace": "A",
+      "late": "C",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1264728",
+    "name": "Agnes Digital (Full-Color Fangirling)",
+    "image": "https://img.game8.co/4215633/59ca99727f3f24e2c049d72ae6594527.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "A",
+      "sprint": "F",
+      "mile": "A",
+      "medium": "A",
+      "long": "G",
+      "front": "G",
+      "pace": "A",
+      "late": "A",
+      "end": "B"
+    }
+  },
+  {
+    "id": "1264729",
+    "name": "Rice Shower (Vampire Makeover!)",
+    "image": "https://img.game8.co/4346983/abd78f25e08f753dd82d617966b66c63.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "E",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "B",
+      "pace": "A",
+      "late": "C",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1264738",
+    "name": "Super Creek (Chiffon-Wrapped Mummy)",
+    "image": "https://img.game8.co/4346982/5713107635f13fe4ea31d8b4abfd49da.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "G",
+      "medium": "A",
+      "long": "A",
+      "front": "D",
+      "pace": "A",
+      "late": "B",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1276017",
+    "name": "Kawakami Princess (Princess of Pink)",
+    "image": "https://img.game8.co/4350967/f76539f7640dae30e9d1c4a7a6ac4495.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "D",
+      "mile": "B",
+      "medium": "A",
+      "long": "F",
+      "front": "G",
+      "pace": "C",
+      "late": "A",
+      "end": "D"
+    }
+  },
+  {
+    "id": "1276018",
+    "name": "Manhattan Cafe (Creeping Shadow)",
+    "image": "https://img.game8.co/4215624/c02b4399161742cf25b85e5cc8efaf07.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "F",
+      "medium": "B",
+      "long": "A",
+      "front": "G",
+      "pace": "C",
+      "late": "A",
+      "end": "C"
+    }
+  },
+  {
+    "id": "1276019",
+    "name": "Symboli Rudolf (Archer by Moonlight)",
+    "image": "https://img.game8.co/4377474/970abfb6cd503e91fc0268f0a2e725f7.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "E",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "B",
+      "pace": "A",
+      "late": "A",
+      "end": "C"
+    }
+  },
+  {
+    "id": "1295280",
+    "name": "Gold City (Autumn Cosmos)",
+    "image": "https://img.game8.co/4377475/62f05f232bdfa17f2a92b8951da0ca8b.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "D",
+      "sprint": "F",
+      "mile": "A",
+      "medium": "B",
+      "long": "B",
+      "front": "F",
+      "pace": "A",
+      "late": "A",
+      "end": "F"
+    }
+  },
+  {
+    "id": "1295281",
+    "name": "Tosen Jordan (Jokester ☆ Vibes)",
+    "image": "https://img.game8.co/4366864/3f9d397318a8a57a8fd54cc54c73f78d.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "F",
+      "medium": "A",
+      "long": "B",
+      "front": "C",
+      "pace": "A",
+      "late": "B",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1314140",
+    "name": "Mejiro Dober (Off the Line)",
+    "image": "https://img.game8.co/4215623/3b18da3a002fb5efbdd33e0fb63840f2.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "E",
+      "mile": "A",
+      "medium": "A",
+      "long": "F",
+      "front": "C",
+      "pace": "B",
+      "late": "A",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1314141",
+    "name": "Oguri Cap (Ashen Miracle)",
+    "image": "https://img.game8.co/4372573/6af39314f30d8d63fc0de101b00d6428.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "B",
+      "sprint": "E",
+      "mile": "A",
+      "medium": "A",
+      "long": "B",
+      "front": "F",
+      "pace": "A",
+      "late": "A",
+      "end": "D"
+    }
+  },
+  {
+    "id": "1367711",
+    "name": "Biwa Hayahide (Rouge Caroler)",
+    "image": "https://img.game8.co/4372685/0b4aa7fe454a07312226406ea0b0a436.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "F",
+      "sprint": "F",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "E",
+      "pace": "A",
+      "late": "B",
+      "end": "E"
+    }
+  },
+  {
+    "id": "1372939",
+    "name": "Fine Motion (Noble Seamair)",
+    "image": "https://img.game8.co/4215621/2950ad28b409821d05fe4eb69168ef53.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "A",
+      "medium": "A",
+      "long": "C",
+      "front": "D",
+      "pace": "A",
+      "late": "E",
+      "end": "C"
+    }
+  },
+  {
+    "id": "1375821",
+    "name": "Tamamo Cross (Fast as Lightning)",
+    "image": "https://img.game8.co/4215634/8ba9055637fafd9223d2957c4398355e.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "F",
+      "sprint": "G",
+      "mile": "E",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "A",
+      "late": "A",
+      "end": "A"
+    }
+  },
+  {
+    "id": "1380100",
+    "name": "Haru Urara (New Year ♪ New Urara!)",
+    "image": "https://img.game8.co/4394914/5e5439a7bebb62ac4549aa52d74c19aa.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "G",
+      "dirt": "A",
+      "sprint": "A",
+      "mile": "A",
+      "medium": "G",
+      "long": "G",
+      "front": "G",
+      "pace": "G",
+      "late": "A",
+      "end": "B"
+    }
+  },
+  {
+    "id": "1380101",
+    "name": "T.M. Opera O (New Year, Same Radiance!)",
+    "image": "https://img.game8.co/4394913/335929dfaab1a7f8dde239372cb0a0dc.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "E",
+      "sprint": "G",
+      "mile": "E",
+      "medium": "A",
+      "long": "A",
+      "front": "C",
+      "pace": "A",
+      "late": "A",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1387332",
+    "name": "Sakura Chiyono O (Strength in Full Bloom)",
+    "image": "https://img.game8.jp/6724846/1e2bb3e2fad6427c4b68218c55b9e9c9.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "E",
+      "mile": "A",
+      "medium": "A",
+      "long": "E",
+      "front": "B",
+      "pace": "A",
+      "late": "F",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1387333",
+    "name": "Mihono Bourbon (CODE: ICING)",
+    "image": "https://img.game8.co/4418691/c0bcba1795739069ea290ce6139918d3.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "C",
+      "mile": "B",
+      "medium": "A",
+      "long": "B",
+      "front": "A",
+      "pace": "E",
+      "late": "G",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1387334",
+    "name": "Eishin Flash (Precise Chocolatier)",
+    "image": "https://img.game8.co/4418692/93056ed5a4cd9b1deb503014edc40155.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "F",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "B",
+      "late": "A",
+      "end": "C"
+    }
+  },
+  {
+    "id": "1387335",
+    "name": "Mejiro Ardan (Crystalline)",
+    "image": "https://img.game8.jp/6724873/599dd0d7ce5c6e514cf5ee3ecc3bfe0b.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "F",
+      "sprint": "E",
+      "mile": "B",
+      "medium": "A",
+      "long": "D",
+      "front": "C",
+      "pace": "A",
+      "late": "D",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1403820",
+    "name": "Admire Vega (Starry Nocturne)",
+    "image": "https://img.game8.co/4428700/6ee256690af9074148e795eeabe7b18a.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "C",
+      "medium": "A",
+      "long": "C",
+      "front": "G",
+      "pace": "G",
+      "late": "B",
+      "end": "A"
+    }
+  },
+  {
+    "id": "1404130",
+    "name": "Kitasan Black (Gilded Shrine to Glory)",
+    "image": "https://img.game8.co/4429384/09e22df6ace2158f153fcf6b554c6fc5.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "E",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "A",
+      "pace": "B",
+      "late": "C",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1407998",
+    "name": "Matikane Tannhauser (Clippety Tippety Clop)",
+    "image": "https://img.game8.co/4437497/da0ae2a170eeec561edd221c5cb4628b.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "D",
+      "medium": "A",
+      "long": "A",
+      "front": "F",
+      "pace": "A",
+      "late": "A",
+      "end": "E"
+    }
+  }
+]

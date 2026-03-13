@@ -1,0 +1,34 @@
+name: Codzienna Aktualizacja Bazy Um
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout kodu
+        uses: actions/checkout@v4
+
+      - name: Konfiguracja Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalacja zależności
+        run: npm install --legacy-peer-deps
+
+      - name: Uruchomienie skryptu aktualizacji
+        run: node src/data/database_update.js
+
+      - name: Sprawdzenie zmian i commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/umas.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automatyczna aktualizacja bazy postaci" && git push)
