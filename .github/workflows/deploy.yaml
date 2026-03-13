@@ -4,19 +4,30 @@ on:
   push:
     branches: [main]
   workflow_run:
-    workflows: ["Codzienna Aktualizacja Bazy Uma"]
+    workflows: ["Codzienna Aktualizacja Bazy Umamusume"]
     types: [completed]
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build_site:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout kodu
         uses: actions/checkout@v4
+
+      - name: Konfiguracja Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: 'npm'
+
       - name: Install and Build
         run: |
           npm install --legacy-peer-deps
           npm run build
+
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v3
         with:

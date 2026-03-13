@@ -8,7 +8,7 @@ A modern, high-performance web application designed for **Uma Musume: Pretty Der
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 🚀 Live Demo
-**[VIEW LIVE PROJECT HERE](https://your-username.github.io/uma-tt-team-builder/)** *(Replace this link with your actual GitHub Pages URL)*
+**[VIEW LIVE PROJECT HERE](https://ekzb001.github.io/uma-tt-team-builder/)**
 
 ## ✨ Key Features
 
@@ -34,23 +34,6 @@ This project features a custom automation workflow:
 2. The script fetches the latest character data from **Game8**.
 3. It performs an integrity check: data is updated only if new characters are detected.
 4. If an update occurs, the bot commits the changes directly to the repository, triggering a fresh deployment.
-
-## 📦 Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/uma-tt-team-builder.git](https://github.com/your-username/uma-tt-team-builder.git)
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install --legacy-peer-deps
-   ```
-
-3. Run the development server:
-   ```bash
-   npm run dev
-   ```
 
 ## 📜 Credits & Disclaimer
 
