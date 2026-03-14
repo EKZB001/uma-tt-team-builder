@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ekzb001.github.io/uma-tt-team-builder/sitemap.xml
