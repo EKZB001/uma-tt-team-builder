@@ -3,7 +3,8 @@
 
 <head>
   <meta charset="UTF-8" />
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="icon" type="image/png" href="/web-icon.png" />
+  <link rel="apple-touch-icon" href="/web-icon.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <title>Uma Musume Team Builder — Team Trials Planner</title>
@@ -31,11 +32,34 @@
   <meta name="twitter:image" content="https://ekzb001.github.io/uma-tt-team-builder/og-image.png" />
 
   <meta name="theme-color" content="#111827" />
+
+  <!-- Schema.org WebSite -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Uma Musume Team Builder — Team Trials Planner",
+    "url": "https://ekzb001.github.io/uma-tt-team-builder/"
+  }
+  </script>
+
+  
 </head>
 
 <body>
   <div id="root"></div>
   <script type="module" src="/src/main.jsx"></script>
+
+  <!-- Ko-fi Floating Widget -->
+  <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+  <script>
+    kofiWidgetOverlay.draw('ekzb_blue', {
+      'type': 'floating-chat',
+      'floating-chat.donateButton.text': 'Support me',
+      'floating-chat.donateButton.background-color': '#ffffff',
+      'floating-chat.donateButton.text-color': '#323842'
+    });
+  </script>
 </body>
 
 </html>

@@ -39,3 +39,30 @@ html {
   scrollbar-width: thin;
   scrollbar-color: #374151 transparent;
 }
+
+/* ── Ko-fi widget — move to right side ───────────────── */
+.floatingchat-container-wrap {
+  left: unset !important;
+  transform: scale(0.90);
+  @media (max-width: 768px) {
+    transform: scale(0.80);
+  }
+  transform-origin: bottom right;
+  right: 16px;
+}
+
+.floatingchat-container-wrap-mobi {
+  transform: scale(0.80);
+  left: 200px !important;
+  transform-origin: bottom right;
+}
+
+.floating-chat-kofi-popup-iframe,
+.floatingchat-iframe {
+  left: unset !important;
+  transform: scale(0.90);
+  transform-origin: bottom right;
+  height: 510px !important;
+  max-height: 63vh !important;
+  right: 16px;
+}

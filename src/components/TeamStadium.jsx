@@ -45,7 +45,7 @@ export default function TeamStadium({
       </div>
 
       {/* Footer */}
-      <footer className="shrink-0 border-t border-gray-800/50 px-5 py-2.5 text-center">
+      <footer className="shrink-0 border-t border-gray-800/50 px-5 py-2.5 text-left md:text-center">
         <p className="text-[11px] text-gray-300">
           Author: <a href="https://github.com/EKZB001/uma-tt-team-builder" target="_blank" rel="noopener noreferrer" className="text-gray-550 hover:text-yellow-400 underline underline-offset-2 transition-colors pr-2">3RIC</a>
           <a href="mailto:ekzb001.dev@gmail.com?subject=Uma Team Builder - Bug Report" target="_blank" rel="noopener noreferrer" className="text-gray-550 hover:text-yellow-400 underline underline-offset-2 transition-colors">Contact / Report a Bug</a>
