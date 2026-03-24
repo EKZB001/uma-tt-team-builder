@@ -1,8 +1,13 @@
 import fs from 'fs';
 import https from 'https';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const API_URL = 'https://game8.co/api/tool_structural_mappings/650.json';
-const OUTPUT_FILE = './umas.json';
+const OUTPUT_FILE = path.join(__dirname, 'umas.json');
 
 let localUmas = [];
 if (fs.existsSync(OUTPUT_FILE)) {

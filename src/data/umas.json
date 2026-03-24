@@ -1258,5 +1258,23 @@
       "late": "A",
       "end": "E"
     }
+  },
+  {
+    "id": "1407999",
+    "name": "Satono Diamond (Natural Brilliance)",
+    "image": "https://img.game8.co/4390284/353b58c6e8cba72cb732a251fd350ff3.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "B",
+      "late": "A",
+      "end": "D"
+    }
   }
 ]
