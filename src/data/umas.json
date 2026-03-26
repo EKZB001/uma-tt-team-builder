@@ -1276,5 +1276,23 @@
       "late": "A",
       "end": "D"
     }
+  },
+  {
+    "id": "1408000",
+    "name": "Mejiro Bright (Brunissage Line)",
+    "image": "https://img.game8.co/4390243/a0b15246dc97833b8b2d7c7ec783464b.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "D",
+      "late": "A",
+      "end": "A"
+    }
   }
 ]
