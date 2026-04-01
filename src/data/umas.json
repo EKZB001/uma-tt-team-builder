@@ -1294,5 +1294,41 @@
       "late": "A",
       "end": "A"
     }
+  },
+  {
+    "id": "1411929",
+    "name": "Fuji Kiseki (Succès Étoilé)",
+    "image": "https://img.game8.co/4458276/6ea0d707ab789e0989b7c969ae863623.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "F",
+      "sprint": "B",
+      "mile": "A",
+      "medium": "B",
+      "long": "E",
+      "front": "C",
+      "pace": "A",
+      "late": "C",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1428273",
+    "name": "Seiun Sky (Soirée des Chatons)",
+    "image": "https://img.game8.co/4458277/2611b69f522adb2ac71bcdfd0b63a67d.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "A",
+      "pace": "B",
+      "late": "D",
+      "end": "E"
+    }
   }
 ]
