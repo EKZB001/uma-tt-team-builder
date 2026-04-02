@@ -1330,5 +1330,23 @@
       "late": "D",
       "end": "E"
     }
+  },
+  {
+    "id": "1428698",
+    "name": "Nishino Flower",
+    "image": "https://img.game8.co/4215636/b5b9c3bed462ff751dcf703f5ba42544.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "F",
+      "sprint": "A",
+      "mile": "A",
+      "medium": "E",
+      "long": "G",
+      "front": "F",
+      "pace": "A",
+      "late": "A",
+      "end": "G"
+    }
   }
 ]
