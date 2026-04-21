@@ -1333,7 +1333,7 @@
   },
   {
     "id": "1428698",
-    "name": "Nishino Flower",
+    "name": "Nishino Flower (Layered Petals)",
     "image": "https://img.game8.co/4215636/b5b9c3bed462ff751dcf703f5ba42544.png/show",
     "owned": false,
     "aptitude": {
@@ -1343,6 +1343,24 @@
       "mile": "A",
       "medium": "E",
       "long": "G",
+      "front": "F",
+      "pace": "A",
+      "late": "A",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1441612",
+    "name": "Yaeno Muteki (Blazed Head, Covered Fists)",
+    "image": "https://img.game8.co/4473565/ec3f1b1a58ae5fe9ccd43441c86a8bba.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "E",
+      "sprint": "G",
+      "mile": "B",
+      "medium": "A",
+      "long": "E",
       "front": "F",
       "pace": "A",
       "late": "A",
