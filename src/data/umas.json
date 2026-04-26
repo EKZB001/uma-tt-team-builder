@@ -1366,5 +1366,41 @@
       "late": "A",
       "end": "G"
     }
+  },
+  {
+    "id": "1446305",
+    "name": "Nice Nature (Run & Win)",
+    "image": "https://img.game8.co/4478864/b0bd3665ba01e7f907ac0a24229adae3.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "F",
+      "pace": "B",
+      "late": "A",
+      "end": "D"
+    }
+  },
+  {
+    "id": "1446306",
+    "name": "King Halo (Cheerleader in Noble White)",
+    "image": "https://img.game8.co/4478863/c98f3e6abae1e509c90673707aea3bb3.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "A",
+      "mile": "B",
+      "medium": "B",
+      "long": "C",
+      "front": "G",
+      "pace": "B",
+      "late": "A",
+      "end": "D"
+    }
   }
 ]
