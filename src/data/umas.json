@@ -1136,7 +1136,7 @@
   {
     "id": "1387332",
     "name": "Sakura Chiyono O (Strength in Full Bloom)",
-    "image": "https://img.game8.jp/6724846/1e2bb3e2fad6427c4b68218c55b9e9c9.png/show",
+    "image": "https://img.game8.co/4482694/ebcbe09f89bd75eaaa47dae62ffad858.png/show",
     "owned": false,
     "aptitude": {
       "turf": "A",
@@ -1190,7 +1190,7 @@
   {
     "id": "1387335",
     "name": "Mejiro Ardan (Crystalline)",
-    "image": "https://img.game8.jp/6724873/599dd0d7ce5c6e514cf5ee3ecc3bfe0b.png/show",
+    "image": "https://img.game8.co/4482693/58c257205bf11321e1b5e5583de537c8.png/show",
     "owned": false,
     "aptitude": {
       "turf": "A",
@@ -1401,6 +1401,24 @@
       "pace": "B",
       "late": "A",
       "end": "D"
+    }
+  },
+  {
+    "id": "1448474",
+    "name": "Ines Fujin (Always Electrifying)",
+    "image": "https://img.game8.co/4215628/981b89c6951e171f66a9c6b26f65c96a.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "A",
+      "medium": "A",
+      "long": "C",
+      "front": "A",
+      "pace": "C",
+      "late": "G",
+      "end": "G"
     }
   }
 ]
