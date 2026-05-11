@@ -1420,5 +1420,77 @@
       "late": "G",
       "end": "G"
     }
+  },
+  {
+    "id": "1455113",
+    "name": "Mejiro Palmer (Line Breakthrough)",
+    "image": "https://img.game8.co/4486914/f70cd95d5768bf3f07df0b1b3517b9a1.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "F",
+      "medium": "A",
+      "long": "A",
+      "front": "A",
+      "pace": "E",
+      "late": "F",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1455114",
+    "name": "Wedding Fine Motion",
+    "image": "https://img.game8.co/4486915/9ea214cb14a859c441ce47a79725bcb6.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "A",
+      "medium": "A",
+      "long": "C",
+      "front": "D",
+      "pace": "A",
+      "late": "E",
+      "end": "C"
+    }
+  },
+  {
+    "id": "1455115",
+    "name": "Wedding Curren Chan",
+    "image": "https://img.game8.co/4486912/f262eff404bee6c2a073ede4823d4c15.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "F",
+      "sprint": "A",
+      "mile": "D",
+      "medium": "G",
+      "long": "G",
+      "front": "B",
+      "pace": "A",
+      "late": "E",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1455116",
+    "name": "Inari One",
+    "image": "https://img.game8.co/4486913/609ebb9aae1550a4f583a5088f3ac05e.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "A",
+      "sprint": "F",
+      "mile": "B",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "B",
+      "late": "B",
+      "end": "A"
+    }
   }
 ]
