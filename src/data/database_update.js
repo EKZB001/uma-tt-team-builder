@@ -19,9 +19,15 @@ if (fs.existsSync(OUTPUT_FILE)) {
 }
 
 const headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-    'Referer': 'https://game8.co/',
-    'Accept': 'application/json'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'application/json, text/javascript, */*; q=0.01',
+    'Accept-Language': 'pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7',
+    'Referer': 'https://game8.co/games/Umamusume-Pretty-Derby',
+    'X-Requested-With': 'XMLHttpRequest',
+    'Connection': 'keep-alive',
+    'Sec-Fetch-Dest': 'empty',
+    'Sec-Fetch-Mode': 'cors',
+    'Sec-Fetch-Site': 'same-origin'
 };
 
 console.log('📡 Łączę się z Game8 w celu weryfikacji...');
@@ -29,14 +35,18 @@ console.log('📡 Łączę się z Game8 w celu weryfikacji...');
 async function updateDatabase() {
     try {
         const response = await fetch(API_URL, { headers });
+        const text = await response.text();
 
         if (!response.ok) {
+            console.error('Szczegóły błędu (pierwsze 200 znaków):', text.substring(0, 200));
             throw new Error(`Serwer odrzucił połączenie. Status HTTP: ${response.status}`);
         }
 
-        const text = await response.text();
-        if (!text) {
-            throw new Error("Serwer zwrócił całkowicie pustą odpowiedź.");
+        // Zabezpieczenie przed pustą odpowiedzią + diagnostyka
+        if (!text || text.trim() === '') {
+            console.log("⚠️ UWAGA: Serwer zwrócił pustą odpowiedź. Poniżej nagłówki odrzuconego zapytania (może to być blokada Cloudflare):");
+            console.log(Object.fromEntries(response.headers.entries()));
+            throw new Error("Serwer zwrócił całkowicie pustą odpowiedź (shadowban).");
         }
 
         const parsedData = JSON.parse(text);
@@ -81,5 +91,4 @@ async function updateDatabase() {
     }
 }
 
-// Uruchomienie skryptu
 updateDatabase();
