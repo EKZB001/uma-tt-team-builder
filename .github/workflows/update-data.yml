@@ -25,8 +25,14 @@ jobs:
       - name: Instalacja zależności
         run: npm install --legacy-peer-deps
 
-      - name: Uruchomienie skryptu aktualizacji
-        run: node src/data/database_update.js
+      # Krok z automatyczną pętlą ponawiania prób i wymiany maszyn/IP
+      - name: Uruchomienie skryptu aktualizacji (z obsługą pętli i IP)
+        uses: nick-fields/retry@v3
+        with:
+          timeout_minutes: 2      # Maksymalny czas na jedną pojedynczą próbę
+          max_attempts: 5         # W przypadku blokady IP, spróbuj maksymalnie 5 razy pod rząd
+          retry_wait_seconds: 180 # Odczekaj 3 minuty przed kolejną próbą (czas na zmianę maszyny i IP)
+          command: node src/data/database_update.js
 
       - name: Sprawdzenie zmian i commit
         run: |
