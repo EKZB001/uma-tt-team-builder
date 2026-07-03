@@ -1513,8 +1513,8 @@
   },
   {
     "id": "1477386",
-    "name": "Camping Taiki Shuttle",
-    "image": "https://img.game8.jp/6955262/ff8f8c69f29fabdbddb5b674ef7b949f.png/show",
+    "name": "Taiki Shuttle (Bubblegum ☆Memories)",
+    "image": "https://img.game8.co/4531082/39dfcaf3af235af46b72d47890b3e597.png/show",
     "owned": false,
     "aptitude": {
       "turf": "A",
@@ -1531,8 +1531,8 @@
   },
   {
     "id": "1477387",
-    "name": "Camping Mejiro Dober",
-    "image": "https://img.game8.jp/6954153/4dbe2b100a0cb9b1c77687f5172327df.png/show",
+    "name": "Mejiro Dober (Sapphire Sojourn)",
+    "image": "https://img.game8.co/4531083/d4806b49c38b0be2011feae52a1723a9.png/show",
     "owned": false,
     "aptitude": {
       "turf": "A",
@@ -1567,8 +1567,8 @@
   },
   {
     "id": "1477389",
-    "name": "Commander Special Week",
-    "image": "https://img.game8.jp/8988487/ac94405033128dabc0c0f92838887e2e.png/show",
+    "name": "Special Week (Ruler of Japan)",
+    "image": "https://img.game8.co/4542808/687aa4bf145eaaef0b0f6c8aee0cbedb.png/show",
     "owned": false,
     "aptitude": {
       "turf": "A",
@@ -1581,6 +1581,132 @@
       "pace": "A",
       "late": "A",
       "end": "C"
+    }
+  },
+  {
+    "id": "1492100",
+    "name": "Mejiro McQueen (Fair Lady of the Waves)",
+    "image": "https://img.game8.co/4547447/81d288a69b8798520f04fef9fc935591.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "E",
+      "sprint": "G",
+      "mile": "F",
+      "medium": "A",
+      "long": "A",
+      "front": "B",
+      "pace": "A",
+      "late": "D",
+      "end": "F"
+    }
+  },
+  {
+    "id": "1492128",
+    "name": "Gold Ship (RUN! RUIN! LAUNCHER!)",
+    "image": "https://img.game8.co/4547448/ad6aa9995d71005f4405ea452559d636.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "C",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "B",
+      "late": "B",
+      "end": "A"
+    }
+  },
+  {
+    "id": "1493632",
+    "name": "Bamboo Memory",
+    "image": "https://img.game8.co/4545434/120f04dc160be68dce0132ff19909c2f.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "D",
+      "sprint": "A",
+      "mile": "A",
+      "medium": "C",
+      "long": "G",
+      "front": "G",
+      "pace": "E",
+      "late": "A",
+      "end": "C"
+    }
+  },
+  {
+    "id": "1493633",
+    "name": "Copano Rickey",
+    "image": "https://img.game8.co/4543446/7a674ac4e6ba27c3a237d2ada76c7024.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "F",
+      "dirt": "A",
+      "sprint": "C",
+      "mile": "A",
+      "medium": "A",
+      "long": "G",
+      "front": "A",
+      "pace": "A",
+      "late": "C",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1493634",
+    "name": "Smart Falcon (Grand Live)",
+    "image": "https://img.game8.co/4543616/c98f163d8bbe6d4d5e1b24f3b35a0251.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "E",
+      "dirt": "A",
+      "sprint": "B",
+      "mile": "A",
+      "medium": "A",
+      "long": "E",
+      "front": "A",
+      "pace": "D",
+      "late": "G",
+      "end": "G"
+    }
+  },
+  {
+    "id": "1493635",
+    "name": "Steampunk Narita Taishin",
+    "image": "https://img.game8.co/4545433/26851a40bbbdf6af551b87de36acca30.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "F",
+      "mile": "D",
+      "medium": "A",
+      "long": "A",
+      "front": "G",
+      "pace": "F",
+      "late": "B",
+      "end": "A"
+    }
+  },
+  {
+    "id": "1493636",
+    "name": "Steampunk Winning Ticket",
+    "image": "https://img.game8.co/4545435/bfd9535c6156e6bb05ac79f7ab0b4d64.png/show",
+    "owned": false,
+    "aptitude": {
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "F",
+      "medium": "A",
+      "long": "B",
+      "front": "G",
+      "pace": "B",
+      "late": "A",
+      "end": "G"
     }
   }
 ]
